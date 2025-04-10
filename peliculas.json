@@ -1,0 +1,25 @@
+{
+	"peliculas": [
+	  {
+		"id": "1",
+		"carMovieName": "Fast & Furious",
+		"carMovieYear": 2001,
+		"duration": 106,
+		"genre": "Action",
+		"director": "Rob Cohen",
+		"actors": ["Vin Diesel", "Paul Walker", "Jordana Brewster"],
+		"rating": 6.8
+	  },
+	  {
+		"id": "2",
+		"carMovieName": "Speed Racer",
+		"carMovieYear": 2008,
+		"duration": 135,
+		"genre": "Adventure",
+		"director": "Lilly Wachowski, Lana Wachowski",
+		"actors": ["Emile Hirsch", "Matthew Fox", "Christina Ricci"],
+		"rating": 6.0
+	  }
+	]
+  }
+  
